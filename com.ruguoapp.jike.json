@@ -1,7 +1,11 @@
 {
 	"package": "com.ruguoapp.jike",
 	"recommended": true,
+<<<<<<< HEAD
 	"authors": ["MizuhashiZ"],
+=======
+	"authors": ["FoobarRogers","MizuhashiZ"],
+>>>>>>> origin/patch-1
 	"observers": [{
 		"description": "saved_pictures",
 		"call_media_scan": true,
